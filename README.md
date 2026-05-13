@@ -1,4 +1,4 @@
-# Simple RISC-V Kernel
+# Lightweight RISC-V Kernel
 
 A lightweight kernel for the RISC-V architecture, featuring basic operating system mechanisms such as multithreading, memory management, and synchronization.
 Developed in C++ and Assembly as part of a university project focused on understanding low-level system programming and OS design.
